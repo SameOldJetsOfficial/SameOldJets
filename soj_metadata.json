@@ -1,0 +1,16 @@
+{
+  "name": "Same Old Jets",
+  "symbol": "SOJ",
+  "description": "A meme coin about the Same Old Jets.",
+  "image": "https://ipfs.io/ipfs/QmYKMEHmTwKu9R9VLWYnTN8xmvb78qm7zg6qkgPfNZDD4w",
+  "external_url": "https://yourwebsite.com",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.io/ipfs/QmYKMEHmTwKu9R9VLWYnTN8xmvb78qm7zg6qkgPfNZDD4w",
+        "type": "image/png"
+      }
+    ]
+  }
+}
